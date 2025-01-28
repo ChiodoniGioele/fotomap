@@ -1,0 +1,84 @@
+# File temporanei e di sistema
+*.tmp
+*.swp
+*.log
+*.bak
+*.old
+*.orig
+*.rej
+.DS_Store
+Thumbs.db
+
+# File temporanei di Word
+~*
+
+# File e cartelle per Java con Maven e Spring
+target/
+*.class
+*.war
+*.ear
+*.jar
+*.iml
+.idea/
+.project
+.classpath
+.settings/
+.maven/
+dependency-reduced-pom.xml
+
+# File generati da IntelliJ IDEA e Eclipse
+*.ipr
+*.iws
+*.classpath
+*.factorypath
+
+# File di configurazione del sistema operativo
+*.vscode/
+*.vscode/*
+
+# File generati da build tools
+build/
+out/
+bin/
+dist/
+.gradle/
+.gradle-cache/
+.gradle/
+/build/
+
+# Cartelle di configurazione locali
+.mvn/
+!mvn/wrapper/maven-wrapper.jar
+**/mvn/wrapper/maven-wrapper.properties
+
+# File e cartelle per Angular e npm
+node_modules/
+package-lock.json
+yarn.lock
+.npm/
+npm-debug.log*
+coverage/
+dist/
+.angular/
+.angular-cli.json
+.idea/
+.vscode/
+.sass-cache/
+*.tsbuildinfo
+*.eslintcache
+*.angular/cache/
+
+# Log
+*.log
+
+# File temporanei di test
+/target/test-classes/
+/target/surefire-reports/
+/target/failsafe-reports/
+
+# File di configurazione specifici
+.env
+.env.*
+*.key
+*.pem
+*.crt
