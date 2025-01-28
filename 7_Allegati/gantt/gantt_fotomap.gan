@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="gantt_fotomap" company="" webLink="http://" view-date="2025-01-27" view-index="0" gantt-divider-location="465" resource-divider-location="300" version="3.3.3312" locale="it_CH">
+<?xml version="1.0" encoding="UTF-8"?><project name="gantt_fotomap" company="" webLink="http://" view-date="2025-01-20" view-index="0" gantt-divider-location="608" resource-divider-location="300" version="3.3.3312" locale="it_IT">
     <description/>
-    <view zooming-state="default:2" id="gantt-chart">
-        <field id="tpd3" name="Name" width="264" order="0"/>
-        <field id="tpd4" name="Begin date" width="100" order="1"/>
-        <field id="tpd5" name="End date" width="100" order="2"/>
-        <field id="tpd15" name="Notes" width="20" order="3"/>
+    <view zooming-state="default:6" id="gantt-chart">
+        <field id="tpd3" name="Nome" width="300" order="0"/>
+        <field id="tpd4" name="Data d'inizio" width="136" order="1"/>
+        <field id="tpd5" name="Data di fine" width="171" order="2"/>
+        <field id="tpd15" name="Note" width="20" order="3"/>
         <option id="filter.completedTasks" value="false"/>
         <option id="filter.dueTodayTasks" value="false"/>
         <option id="filter.overdueTasks" value="false"/>
         <option id="filter.inProgressTodayTasks" value="false"/>
     </view>
     <view id="resource-table">
-        <field id="0" name="Name" width="210" order="0"/>
-        <field id="1" name="Default role" width="86" order="1"/>
+        <field id="0" name="Nome" width="210" order="0"/>
+        <field id="1" name="Ruolo predefinito" width="86" order="1"/>
     </view>
     <!-- -->
     <calendars>
@@ -46,7 +46,7 @@
             <task id="9" uid="295dfc25e17d425ba2778d15690a99ef" name="Activity Diagram" color="#8cb6ce" meeting="false" start="2025-01-30" duration="2" complete="0" expand="true"/>
             <task id="10" uid="fef1ceb37cbc44f3a142863c30bc01cf" name="Design Interfacce" color="#8cb6ce" meeting="false" start="2025-01-31" duration="1" complete="0" expand="true"/>
         </task>
-        <task id="11" uid="9007d90f5a714b6fa04a8a2d7d9dd407" name="Implementazione" meeting="false" start="2025-02-03" duration="35" complete="0" expand="true">
+        <task id="11" uid="9007d90f5a714b6fa04a8a2d7d9dd407" name="Implementazione" meeting="false" start="2025-02-03" duration="36" complete="0" expand="true">
             <task id="12" uid="903d0316b8f84194858b7fc33219300f" name="Autenticazione" meeting="false" start="2025-02-03" duration="5" complete="0" priority="2" expand="true"/>
             <task id="13" uid="d10f300a0d3d47079be4f250955f5776" name="Registrazione" color="#8cb6ce" meeting="false" start="2025-02-07" duration="2" complete="0" expand="true"/>
             <task id="15" uid="8cb1a453bcd14d009e738d62666acc67" name="Interfaccia Grafica" color="#8cb6ce" meeting="false" start="2025-02-11" duration="3" complete="0" expand="true"/>
@@ -58,12 +58,13 @@
             <task id="22" uid="446431e62761491e81ba10d00cfeb2db" name="Modificare avvistamenti" color="#8cb6ce" meeting="false" start="2025-03-14" duration="1" complete="0" expand="true"/>
             <task id="23" uid="b4f5c95edb87494e8901479b8db0e79b" name="Gestione utenti" color="#8cb6ce" meeting="false" start="2025-03-17" duration="2" complete="0" expand="true"/>
             <task id="24" uid="44628ccd59d941458e14da6dbb1b4515" name="Consultare informazioni naturalistiche" color="#8cb6ce" meeting="false" start="2025-03-20" duration="2" complete="0" expand="true"/>
+            <task id="33" uid="028d93b070e746fcbbebd9f83efa8656" name="CRUD sul prorpio profilo" color="#8cb6ce" meeting="false" start="2025-03-24" duration="1" complete="0" expand="true"/>
         </task>
-        <task id="25" uid="0ad423e9974d443ba2280b99484b7c7c" name="Test e Refactor" meeting="false" start="2025-02-10" duration="35" complete="0" expand="true">
+        <task id="25" uid="0ad423e9974d443ba2280b99484b7c7c" name="Test e Refactor" meeting="false" start="2025-02-10" duration="36" complete="0" expand="true">
             <task id="26" uid="2780b51ba4944a4297ade2416eb65c13" name="Test Registrazione + Login" meeting="false" start="2025-02-10" duration="2" complete="0" expand="true"/>
             <task id="27" uid="a6196e43f72c4965b66f69a8a07c1345" name="Refactor" color="#8cb6ce" meeting="false" start="2025-02-27" duration="2" complete="0" expand="true"/>
             <task id="28" uid="dda987e05bc141d58c2fbe94666d01c5" name="Test" color="#8cb6ce" meeting="false" start="2025-03-17" duration="1" complete="0" expand="true"/>
-            <task id="29" uid="429c65af9eec4e89a997133838d5d1da" name="Test + Refactor + Bug" color="#8cb6ce" meeting="false" start="2025-03-24" duration="5" complete="0" expand="true"/>
+            <task id="29" uid="429c65af9eec4e89a997133838d5d1da" name="Test + Refactor + Bug" color="#8cb6ce" meeting="false" start="2025-03-25" duration="5" complete="0" expand="true"/>
         </task>
         <task id="30" uid="00eee8212d6046b28a7e8cd347161801" name="Documentazione" meeting="false" start="2025-03-31" duration="5" complete="0" expand="true">
             <task id="31" uid="24ca1ca454744b4ca20f0c8eeb34ef7c" name="Redazione Documentazione" meeting="false" start="2025-03-31" duration="5" complete="0" expand="true"/>
