@@ -1,9 +1,11 @@
 
+Priorità assegnate da 1-5
+
 ## Utente
-		
-		- Visualizzare avvistamenti -- 4
-			- Cercare avvistamenti tramite filtri
-			- Eliminazione propri avvistamenti
+
+- Visualizzare avvistamenti -- 4
+	- Cercare avvistamenti tramite filtri
+	- Eliminazione propri avvistamenti
 
 - Visualizzazione profilo -- 1
 	- Modificare profilo
@@ -13,18 +15,17 @@
 
 - Consultare informazioni naturalistiche -- 2
 
-	- Inserire avvistamenti -- 4
-		- Inserire coordinate
-		- Inserire foto
-		- Inserire descrizione
-		- Inserire data
-
-
-	- Autenticarsi -- 5
+- Inserire avvistamenti -- 4
+	- Inserire coordinate
+	- Inserire foto
+	- Inserire descrizione
+	- Inserire data
 	
-	- Registrarsi -- 5
+- Autenticarsi -- 5
+
+- Registrarsi -- 5
 
 ## Amministratore
-- Modificare avvistamenti -- 2
+- Modificare avvistamenti -- 3
 - Vedere segnalazioni -- 3
 - Bloccare utenti -- 2
