@@ -8,6 +8,7 @@ public class FotomapBackendApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FotomapBackendApplication.class, args);
+
 	}
 
 }
