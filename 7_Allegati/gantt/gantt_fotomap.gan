@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="gantt_fotomap" company="" webLink="http://" view-date="2025-01-20" view-index="0" gantt-divider-location="609" resource-divider-location="300" version="3.3.3312" locale="it_IT">
+<?xml version="1.0" encoding="UTF-8"?><project name="gantt_fotomap" company="" webLink="http://" view-date="2025-01-20" view-index="0" gantt-divider-location="552" resource-divider-location="300" version="3.3.3312" locale="it_IT">
     <description/>
     <view zooming-state="default:6" id="gantt-chart">
-        <field id="tpd3" name="Nome" width="293" order="0"/>
-        <field id="tpd4" name="Data d'inizio" width="133" order="1"/>
-        <field id="tpd5" name="Data di fine" width="167" order="2"/>
+        <field id="tpd3" name="Nome" width="265" order="0"/>
+        <field id="tpd4" name="Data d'inizio" width="121" order="1"/>
+        <field id="tpd5" name="Data di fine" width="151" order="2"/>
         <field id="tpd15" name="Note" width="20" order="3"/>
         <option id="filter.completedTasks" value="false"/>
         <option id="filter.dueTodayTasks" value="false"/>
         <option id="filter.overdueTasks" value="false"/>
         <option id="filter.inProgressTodayTasks" value="false"/>
-        <option id="color.recent"><![CDATA[#ffcc00 #cccccc #ff9933 #00ffff #0066ff #00cc33 #ff0000 #ff3333]]></option>
+        <option id="color.recent"><![CDATA[#000000 #ff9933 #ffcc00 #cccccc #00ffff #0066ff #00cc33 #ff0000 #ff3333]]></option>
     </view>
     <view id="resource-table">
         <field id="0" name="Nome" width="210" order="0"/>
@@ -39,7 +39,7 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="0" uid="f4c63d340bd34dec93dcb916a45cfe8b" name="Progettazione" color="#00ffff" meeting="false" start="2025-01-27" duration="5" complete="0" expand="true">
+        <task id="0" uid="f4c63d340bd34dec93dcb916a45cfe8b" name="Progettazione" color="#000000" meeting="false" start="2025-01-27" duration="5" complete="0" expand="true">
             <task id="1" uid="8e1d6cb813ce49bc9121c011a8c45029" name="Use Case" meeting="false" start="2025-01-27" duration="1" complete="0" expand="true"/>
             <task id="3" uid="a3a20b1bc4674a11b6ead17eaa6e61cb" name="QdC" color="#8cb6ce" meeting="false" start="2025-01-27" duration="1" complete="0" expand="true"/>
             <task id="4" uid="1ca85b49fd104095ba38e5473e2634b1" name="Gantt" color="#8cb6ce" meeting="false" start="2025-01-28" duration="1" complete="0" expand="true"/>
@@ -47,7 +47,7 @@
             <task id="9" uid="295dfc25e17d425ba2778d15690a99ef" name="Activity Diagram" color="#8cb6ce" meeting="false" start="2025-01-30" duration="2" complete="0" expand="true"/>
             <task id="10" uid="fef1ceb37cbc44f3a142863c30bc01cf" name="Design Interfacce" color="#8cb6ce" meeting="false" start="2025-01-31" duration="1" complete="0" expand="true"/>
         </task>
-        <task id="11" uid="9007d90f5a714b6fa04a8a2d7d9dd407" name="Implementazione" color="#0066ff" meeting="false" start="2025-02-03" duration="41" complete="0" expand="true">
+        <task id="11" uid="9007d90f5a714b6fa04a8a2d7d9dd407" name="Implementazione" color="#000000" meeting="false" start="2025-02-03" duration="41" complete="0" expand="true">
             <task id="12" uid="903d0316b8f84194858b7fc33219300f" name="Autenticazione" meeting="false" start="2025-02-03" duration="5" complete="0" priority="2" expand="true"/>
             <task id="13" uid="d10f300a0d3d47079be4f250955f5776" name="Registrazione" color="#8cb6ce" meeting="false" start="2025-02-07" duration="2" complete="0" expand="true"/>
             <task id="15" uid="8cb1a453bcd14d009e738d62666acc67" name="Interfaccia Grafica" color="#8cb6ce" meeting="false" start="2025-02-11" duration="3" complete="0" expand="true"/>
@@ -61,13 +61,13 @@
             <task id="24" uid="44628ccd59d941458e14da6dbb1b4515" name="Consultare informazioni naturalistiche" color="#8cb6ce" meeting="false" start="2025-03-20" duration="2" complete="0" expand="true"/>
             <task id="33" uid="028d93b070e746fcbbebd9f83efa8656" name="CRUD sul prorpio profilo" color="#8cb6ce" meeting="false" start="2025-03-31" duration="1" complete="0" expand="true"/>
         </task>
-        <task id="25" uid="0ad423e9974d443ba2280b99484b7c7c" name="Test e Refactor" color="#ffcc00" meeting="false" start="2025-02-10" duration="40" complete="0" expand="true">
-            <task id="26" uid="2780b51ba4944a4297ade2416eb65c13" name="Test Registrazione + Login" meeting="false" start="2025-02-10" duration="2" complete="0" expand="true"/>
-            <task id="27" uid="a6196e43f72c4965b66f69a8a07c1345" name="Refactor" color="#8cb6ce" meeting="false" start="2025-02-27" duration="2" complete="0" expand="true"/>
-            <task id="28" uid="dda987e05bc141d58c2fbe94666d01c5" name="Test" color="#8cb6ce" meeting="false" start="2025-03-17" duration="1" complete="0" expand="true"/>
-            <task id="29" uid="429c65af9eec4e89a997133838d5d1da" name="Test + Refactor + Bug" color="#8cb6ce" meeting="false" start="2025-03-31" duration="5" complete="0" expand="true"/>
+        <task id="25" uid="0ad423e9974d443ba2280b99484b7c7c" name="Test e Refactor" color="#000000" meeting="false" start="2025-02-10" duration="40" complete="0" expand="true">
+            <task id="26" uid="2780b51ba4944a4297ade2416eb65c13" name="Test Registrazione + Login" color="#ff9933" meeting="false" start="2025-02-10" duration="2" complete="0" expand="true"/>
+            <task id="27" uid="a6196e43f72c4965b66f69a8a07c1345" name="Refactor" color="#ff9933" meeting="false" start="2025-02-27" duration="2" complete="0" expand="true"/>
+            <task id="28" uid="dda987e05bc141d58c2fbe94666d01c5" name="Test" color="#ff9933" meeting="false" start="2025-03-17" duration="1" complete="0" expand="true"/>
+            <task id="29" uid="429c65af9eec4e89a997133838d5d1da" name="Test + Refactor + Bug" color="#ff9933" meeting="false" start="2025-03-31" duration="5" complete="0" expand="true"/>
         </task>
-        <task id="35" uid="e807808f8d1642ebbab96c1af02fa671" name="Vacanza" color="#cccccc" meeting="false" start="2025-03-03" duration="20" complete="0" expand="true">
+        <task id="35" uid="e807808f8d1642ebbab96c1af02fa671" name="Vacanza" color="#000000" meeting="false" start="2025-03-03" duration="20" complete="0" expand="true">
             <task id="36" uid="3e39bc7ba2a24d87bcb1f4133394b4f9" name="Carnevale" color="#ff3333" meeting="false" start="2025-03-03" duration="5" complete="0" expand="true"/>
             <task id="37" uid="b417b456ed4641488aedc2ce67dbafec" name="Gita Scolastica" color="#ff0000" meeting="false" start="2025-03-24" duration="5" complete="0" expand="true"/>
         </task>

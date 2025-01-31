@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generato da Microsoft Visio, esportazione SVG use-case_fotomap.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="22.8858in" height="16.0354in"
+		viewBox="0 0 1647.78 1154.55" xml:space="preserve" color-interpolation-filters="sRGB" class="st20">
+	<v:documentProperties v:langID="1040" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:prompt="" v:val="VT0(0):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#7030a0;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st2 {fill:#625986;font-family:Calibri;font-size:0.833336em;font-stretch:semi-expanded}
+		.st3 {fill:#73ae42;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st4 {fill:#73ae42;font-family:Calibri;font-size:1.00001em}
+		.st5 {fill:#316176;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st6 {fill:#ffffff;font-family:Calibri;font-size:0.916672em}
+		.st7 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st8 {marker-end:url(#mrkr1-40);stroke:#3d6abb;stroke-dasharray:3.5,2.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st9 {fill:#3d6abb;fill-opacity:1;stroke:#3d6abb;stroke-opacity:1;stroke-width:0.16556291390728}
+		.st10 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st11 {fill:#2e5192;font-family:Calibri;font-size:0.666664em}
+		.st12 {font-size:1em}
+		.st13 {fill:#85b6cc;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st14 {marker-end:url(#mrkr1-59);stroke:#5592c9;stroke-dasharray:3.5,2.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st15 {fill:#5592c9;fill-opacity:1;stroke:#5592c9;stroke-opacity:1;stroke-width:0.16556291390728}
+		.st16 {fill:#41719d;font-family:Calibri;font-size:0.666664em}
+		.st17 {stroke:#5592c9;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st18 {fill:none;stroke:#e65802;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st19 {fill:#e65802;font-family:Calibri;font-size:0.75em}
+		.st20 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-11" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+			<stop offset="0.01" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="0.5" stop-color="#fefefe" stop-opacity="1"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-15" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(270 0.5 0.5)">
+			<stop offset="0" stop-color="#fefefe" stop-opacity="1"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<defs id="Markers">
+		<g id="lend1">
+			<path d="M 1 -1 L 0 0 L 1 1 " style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr1-40" class="st9" v:arrowType="1" v:arrowSize="2" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend1" transform="scale(-6.04,-6.04) "/>
+		</marker>
+		<marker id="mrkr1-59" class="st15" v:arrowType="1" v:arrowSize="2" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend1" transform="scale(-6.04,-6.04) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+			<v:ud v:nameU="visNavType" v:val="VT0(1):26"/>
+		</v:userDefs>
+		<title>Pagina 1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Connettore" v:index="0"/>
+		<v:layer v:name="Contenitore" v:index="1"/>
+		<g id="group5-1" transform="translate(479.905,-269.291)" v:mID="5" v:groupContext="group" v:layerMember="1">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt="" v:val="VT4(DoNotContain)"/>
+				<v:ud v:nameU="msvSDHeadingStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDHeadingStyleCount" v:prompt="" v:val="VT0(4):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingSpan" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingAlign" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="FnForceContrast" v:prompt="" v:val="VT5(#ffffff)"/>
+				<v:ud v:nameU="BaseColor" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HColor1" v:prompt="" v:val="VT5(#ffffff)"/>
+				<v:ud v:nameU="HColor2" v:prompt="" v:val="VT5(#fefefe)"/>
+				<v:ud v:nameU="HColor3" v:prompt="" v:val="VT5(#e9e9e9)"/>
+				<v:ud v:nameU="HColor4" v:prompt="" v:val="VT5(#efefef)"/>
+				<v:ud v:nameU="BColor1" v:prompt="" v:val="VT5(#ffffff)"/>
+				<v:ud v:nameU="BColor2" v:prompt="" v:val="VT5(#ffffff)"/>
+				<v:ud v:nameU="LineColor" v:prompt="" v:val="VT5(#d5d5d5)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="BaseColor" v:prompt="" v:val="VT5(#ffffff)"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(749):26"/>
+			</v:userDefs>
+			<title>Subsystem</title>
+			<g id="group6-2" v:mID="6" v:groupContext="group" v:layerMember="1">
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HSpan" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HorzAlign" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="SquareCorners" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Corner6" v:prompt="" v:val="VT0(0.19685039370079):24"/>
+					<v:ud v:nameU="FillForegndIn" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="FillBkgndIn" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="FillPatternIn" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="BaseColor" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="FillForegndIn" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgndIn" v:prompt="" v:val="VT5(#4d4d4d)"/>
+					<v:ud v:nameU="FillPatternIn" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="BaseColor" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="visAltText" v:val="VT4()"/>
+				</v:userDefs>
+				<title>Foglio.6</title>
+				<g id="shape7-3" v:mID="7" v:groupContext="shape" v:layerMember="1" transform="translate(2.83465,2.83465)">
+					<title>Foglio.7</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="msvThemeColors" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="msvThemeEffects" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HSpan" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HorzAlign" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="SquareCorners" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="OffsetX10" v:prompt="" v:val="VT0(0.039370078740157):24"/>
+						<v:ud v:nameU="OffsetY10" v:prompt="" v:val="VT0(-0.039370078740157):24"/>
+					</v:userDefs>
+				</g>
+				<g id="shape6-5" v:mID="6" v:groupContext="groupContent" v:layerMember="1">
+					<path d="M0 1154.55 L386.93 1154.55 L773.86 1154.55 L773.86 506.83 L386.93 506.83 L0 506.83 L0 1154.55 Z"
+							class="st1"/>
+				</g>
+			</g>
+			<g id="group8-7" transform="translate(0,-613.701)" v:mID="8" v:groupContext="group" v:layerMember="1">
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HSpan" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Hidden" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="HorzAlign" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Rounding" v:prompt="" v:val="VT0(0):1"/>
+					<v:ud v:nameU="SquareCorners" v:prompt="" v:val="VT0(3):26"/>
+					<v:ud v:nameU="Inset" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="InsideRadius" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="InsetXInt" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="HTxtMargin" v:prompt="" v:val="VT0(0.059055118110236):24"/>
+					<v:ud v:nameU="HTxtWidth" v:prompt="" v:val="VT0(1.9685039370079):24"/>
+					<v:ud v:nameU="HLeft" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HRight" v:prompt="" v:val="VT0(1.9685039370079):24"/>
+					<v:ud v:nameU="SquareCorners7" v:prompt="" v:val="VT0(3):26"/>
+					<v:ud v:nameU="Offset" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Rounding8" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+					<v:ud v:nameU="InsetX9" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="InsetY9" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="OffsetY11" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="OffsetY12" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Width12" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Bottom)"/>
+					<v:ud v:nameU="HLineVisible" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="HFillVisible" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="FillForegndIn" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgndIn" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="BaseColor" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="FillPatternIn" v:prompt="" v:val="VT0(30):26"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#96afcf)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#1f477d)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="HTxtWidth" v:prompt="" v:val="VT0(10.748031886307):1"/>
+					<v:ud v:nameU="HRight" v:prompt="" v:val="VT0(10.748031886307):1"/>
+					<v:ud v:nameU="FillForegndIn" v:prompt="" v:val="VT5(#4d4d4d)"/>
+					<v:ud v:nameU="FillBkgndIn" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="BaseColor" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillPatternIn" v:prompt="" v:val="VT0(30):26"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#625986)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#625986)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#625986)"/>
+				</v:userDefs>
+				<title>Foglio.8</title>
+				<desc>Fotomap web app</desc>
+				<g id="shape9-8" v:mID="9" v:groupContext="shape" v:layerMember="1">
+					<title>Foglio.9</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="msvThemeColors" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="msvThemeEffects" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="Rounding" v:prompt="" v:val="VT0(0):1"/>
+						<v:ud v:nameU="SquareCorners" v:prompt="" v:val="VT0(3):26"/>
+						<v:ud v:nameU="HLeft" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HRight" v:prompt="" v:val="VT0(1.9685039370079):24"/>
+						<v:ud v:nameU="Hidden" v:prompt="" v:val="VT0(0):5"/>
+						<v:ud v:nameU="BowHeight7" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+						<v:ud v:nameU="Offset7" v:prompt="" v:val="VT0(0.0052083333333333):3"/>
+						<v:ud v:nameU="AnchorPt7" v:prompt="" v:val="VT0(0.55581528871391):24"/>
+						<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HRight" v:prompt="" v:val="VT0(10.748031886307):1"/>
+						<v:ud v:nameU="Offset7" v:prompt="" v:val="VT0(0.0034722222222222):29"/>
+						<v:ud v:nameU="AnchorPt7" v:prompt="" v:val="VT0(0.82329943132108):24"/>
+					</v:userDefs>
+				</g>
+				<g id="shape8-12" v:mID="8" v:groupContext="groupContent" v:layerMember="1">
+					<v:textBlock v:margins="rect(4,6,4,6)" v:tabSpace="42.5197"/>
+					<v:textRect cx="386.929" cy="1137.54" width="773.86" height="34.0157"/>
+					<text x="6" y="1134.54" class="st2" v:langID="4108"><v:paragraph/><v:tabList/>Fotomap web app<v:newlineChar/></text>				</g>
+			</g>
+		</g>
+		<g id="shape1-17" v:mID="1" v:groupContext="shape" transform="translate(384.915,-555.591)">
+			<title>Actor</title>
+			<desc>Utente</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(333):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="1165.75" width="44.71" height="22.4037"/>
+			<path d="M6.8 1154.55 L6.8 1119.12 L6.8 1133.29 L0 1133.29 L0 1104.94 L3.4 1101.4 L30.61 1101.4 L34.02 1104.94 L34.02
+						 1133.29 L27.21 1133.29 L27.21 1119.12 L27.21 1154.55 L17.01 1154.55 L17.01 1126.2 L17.01 1154.55 L6.8 1154.55
+						 ZM24.09 1090.77 A7.08661 7.08661 -180 1 0 9.92 1090.77 A7.08661 7.08661 -180 1 0 24.09 1090.77 Z"
+					class="st3"/>
+			<text x="0.02" y="1169.35" class="st4" v:langID="4108"><v:paragraph v:horizAlign="1"/><v:tabList/>Utente</text>		</g>
+		<g id="shape85-20" v:mID="85" v:groupContext="shape" transform="translate(928.002,-582.754)">
+			<title>Use Case</title>
+			<desc>Autenticarsi</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(16000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="1137.54" width="113.39" height="34.0157"/>
+			<ellipse cx="56.6929" cy="1137.54" rx="56.6929" ry="17.0079" class="st5"/>
+			<text x="29.76" y="1140.84" class="st6" v:langID="4108"><v:paragraph v:horizAlign="1"/><v:tabList/>Autenticarsi</text>		</g>
+		<g id="shape86-23" v:mID="86" v:groupContext="shape" transform="translate(571.485,-391.89)">
+			<title>Use Case.86</title>
+			<desc>Visualizzare avvistamenti</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(17000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="64.3261" cy="1131.17" width="128.66" height="46.7717"/>
+			<ellipse cx="64.3261" cy="1131.17" rx="64.3261" ry="23.3858" class="st5"/>
+			<text x="8.25" y="1134.47" class="st6" v:langID="4108"><v:paragraph v:horizAlign="1"/><v:tabList/>Visualizzare avvistamenti</text>		</g>
+		<g id="shape87-26" v:mID="87" v:groupContext="shape" transform="translate(671.363,-722.835)">
+			<title>Use Case.87</title>
+			<desc>Inserire avvistamenti</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(18000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="1137.54" width="113.39" height="34.0157"/>
+			<ellipse cx="56.6929" cy="1137.54" rx="56.6929" ry="17.0079" class="st5"/>
+			<text x="9.84" y="1140.84" class="st6" v:langID="4108"><v:paragraph v:horizAlign="1"/><v:tabList/>Inserire avvistamenti</text>		</g>
+		<g id="shape88-29" v:mID="88" v:groupContext="shape" transform="translate(919.276,-712.913)">
+			<title>Use Case.88</title>
+			<desc>Registrarsi</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(19000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="1137.54" width="113.39" height="34.0157"/>
+			<ellipse cx="56.6929" cy="1137.54" rx="56.6929" ry="17.0079" class="st5"/>
+			<text x="33.24" y="1140.84" class="st6" v:langID="4108"><v:paragraph v:horizAlign="1"/><v:tabList/>Registrarsi</text>		</g>
+		<g id="shape96-32" v:mID="96" v:groupContext="shape" v:layerMember="0" transform="translate(418.931,-592.314)">
+			<title>Associazione</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(20000):26"/>
+			</v:userDefs>
+			<path d="M0 1154.55 L252.93 1135.36" class="st7"/>
+		</g>
+		<g id="shape98-35" v:mID="98" v:groupContext="shape" v:layerMember="0" transform="translate(755.363,-724.938)">
+			<title>Includi</title>
+			<desc>&#60;&#60;includi&#62;&#62;</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(22000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="101.012" cy="1209.69" width="47.25" height="17.6036"/>
+			<path d="M0 1154.55 L202.02 1264.82" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="82.2937" y="1204.89" width="37.4373" height="9.59985" class="st10"/>
+			<text x="82.29" y="1212.09" class="st11" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;includi&#62;&#62;</text>		</g>
+		<g id="shape99-43" v:mID="99" v:groupContext="shape" v:layerMember="0" transform="translate(418.931,-578.244)">
+			<title>Associazione.99</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(23000):26"/>
+			</v:userDefs>
+			<path d="M0 1154.55 L188.86 1296.47" class="st7"/>
+		</g>
+		<g id="shape103-46" v:mID="103" v:groupContext="shape" transform="translate(781.844,-526.301)">
+			<title>Use Case.103</title>
+			<desc>Segnalare avvistamenti fasulli</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(26000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="64.3261" cy="1129.28" width="128.66" height="50.5495"/>
+			<ellipse cx="64.3261" cy="1129.28" rx="64.3261" ry="25.2747" class="st5"/>
+			<text x="12.54" y="1125.98" class="st6" v:langID="4108"><v:paragraph v:horizAlign="1"/><v:tabList/>Segnalare avvistamenti<v:newlineChar/><tspan
+						x="51.19" dy="1.2em" class="st12">fasulli</tspan></text>		</g>
+		<g id="shape106-50" v:mID="106" v:groupContext="shape" transform="translate(499.564,-298.346)">
+			<title>Use Case.106</title>
+			<desc>Cercare avvistamenti tramite filtri</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(29000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="64.3261" cy="1131.17" width="128.66" height="46.7717"/>
+			<ellipse cx="64.3261" cy="1131.17" rx="64.3261" ry="23.3858" class="st13"/>
+			<text x="17.26" y="1127.87" class="st6" v:langID="4108"><v:paragraph v:horizAlign="1"/><v:tabList/>Cercare avvistamenti <v:lf/><tspan
+						x="37.23" dy="1.2em" class="st12">tramite filtri</tspan></text>		</g>
+		<g id="shape107-54" v:mID="107" v:groupContext="shape" v:layerMember="0" transform="translate(581.207,-344.255)">
+			<title>Estendi.107</title>
+			<desc>&#60;&#60;estendi&#62;&#62;</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(30000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="18.6439" cy="1130.3" width="49.77" height="17.6036"/>
+			<path d="M0 1154.55 L37.29 1106.05" class="st14"/>
+			<rect v:rectContext="textBkgnd" x="-1.33051" y="1125.5" width="39.949" height="9.59985" class="st10"/>
+			<text x="-1.33" y="1132.7" class="st16" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;estendi&#62;&#62;</text>		</g>
+		<g id="shape108-62" v:mID="108" v:groupContext="shape" transform="translate(670.698,-591.024)">
+			<title>Use Case.108</title>
+			<desc>consultare informazioni naturalistiche</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(31000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="64.3261" cy="1129.28" width="128.66" height="50.5495"/>
+			<ellipse cx="64.3261" cy="1129.28" rx="64.3261" ry="25.2747" class="st5"/>
+			<text x="11.37" y="1125.98" class="st6" v:langID="4108"><v:paragraph v:horizAlign="1"/><v:tabList/>consultare informazioni <v:newlineChar/><tspan
+						x="33.79" dy="1.2em" class="st12">naturalistiche</tspan></text>		</g>
+		<g id="shape110-66" v:mID="110" v:groupContext="shape" v:layerMember="0" transform="translate(418.931,-598.785)">
+			<title>Associazione.110</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(32000):26"/>
+			</v:userDefs>
+			<path d="M0 1154.55 L277.98 1027.7" class="st7"/>
+		</g>
+		<g id="shape111-69" v:mID="111" v:groupContext="shape" v:layerMember="0" transform="translate(798.455,-614.85)">
+			<title>Includi.111</title>
+			<desc>&#60;&#60;includi&#62;&#62;</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(33000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="65.4401" cy="1161.64" width="47.25" height="17.6036"/>
+			<path d="M0 1157.3 L130.88 1165.97" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="46.7215" y="1156.84" width="37.4373" height="9.59985" class="st10"/>
+			<text x="46.72" y="1164.04" class="st11" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;includi&#62;&#62;</text>		</g>
+		<g id="shape113-76" v:mID="113" v:groupContext="shape" v:layerMember="0" transform="translate(418.931,-589.513)">
+			<title>Associazione.113</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(35000):26"/>
+			</v:userDefs>
+			<path d="M0 1154.55 L364.5 1186.92" class="st17"/>
+		</g>
+		<g id="shape114-79" v:mID="114" v:groupContext="shape" v:layerMember="0" transform="translate(894.333,-568.329)">
+			<title>Includi.114</title>
+			<desc>&#60;&#60;includi&#62;&#62;</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(36000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="26.6678" cy="1145.27" width="47.25" height="17.6036"/>
+			<path d="M0 1154.55 L53.34 1136" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="7.9493" y="1140.47" width="37.4373" height="9.59985" class="st10"/>
+			<text x="7.95" y="1147.67" class="st11" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;includi&#62;&#62;</text>		</g>
+		<g id="shape115-86" v:mID="115" v:groupContext="shape" transform="translate(876.756,-388.346)">
+			<title>Use Case.115</title>
+			<desc>Visualizzare profilo</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(37000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="72.0472" cy="1131.17" width="144.1" height="46.7717"/>
+			<ellipse cx="72.0472" cy="1131.17" rx="72.0472" ry="23.3858" class="st5"/>
+			<text x="29.78" y="1134.47" class="st6" v:langID="4108"><v:paragraph v:horizAlign="1"/><v:tabList/>Visualizzare profilo</text>		</g>
+		<g id="shape116-89" v:mID="116" v:groupContext="shape" v:layerMember="0" transform="translate(953.259,-435.073)">
+			<title>Includi.116</title>
+			<desc>&#60;&#60;includi&#62;&#62;</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(38000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="14.0975" cy="1080.7" width="47.25" height="17.6036"/>
+			<path d="M0 1154.55 L28.2 1006.84" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-4.621" y="1075.9" width="37.4373" height="9.59985" class="st10"/>
+			<text x="-4.62" y="1083.1" class="st11" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;includi&#62;&#62;</text>		</g>
+		<g id="shape117-96" v:mID="117" v:groupContext="shape" v:layerMember="0" transform="translate(973.245,-712.917)">
+			<title>Estendi</title>
+			<desc>&#60;&#60;estendi&#62;&#62;</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(39000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="1202.63" width="49.77" height="17.6036"/>
+			<path d="M3.86 1154.55 L10.31 1250.7" class="st14"/>
+			<rect v:rectContext="textBkgnd" x="-12.8878" y="1197.83" width="39.949" height="9.59985" class="st10"/>
+			<text x="-12.89" y="1205.03" class="st16" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;estendi&#62;&#62;</text>		</g>
+		<g id="shape120-103" v:mID="120" v:groupContext="shape" transform="translate(1296.28,-564.329)">
+			<title>Attore.120</title>
+			<desc>Amministratore</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(40000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="1165.75" width="87.8" height="22.4037"/>
+			<path d="M6.8 1154.55 L6.8 1119.12 L6.8 1133.29 L0 1133.29 L0 1104.94 L3.4 1101.4 L30.61 1101.4 L34.02 1104.94 L34.02
+						 1133.29 L27.21 1133.29 L27.21 1119.12 L27.21 1154.55 L17.01 1154.55 L17.01 1126.2 L17.01 1154.55 L6.8 1154.55
+						 ZM24.09 1090.77 A7.08661 7.08661 -180 1 0 9.92 1090.77 A7.08661 7.08661 -180 1 0 24.09 1090.77 Z"
+					class="st3"/>
+			<text x="-21.53" y="1169.35" class="st4" v:langID="4108"><v:paragraph v:horizAlign="1"/><v:tabList/>Amministratore</text>		</g>
+		<g id="shape121-106" v:mID="121" v:groupContext="shape" transform="translate(1051.64,-513.287)">
+			<title>Use Case.121</title>
+			<desc>Vedere segnalazioni</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(41000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="61.3787" cy="1136.14" width="122.76" height="36.8272"/>
+			<ellipse cx="61.3787" cy="1136.14" rx="61.3787" ry="18.4136" class="st5"/>
+			<text x="16.61" y="1139.44" class="st6" v:langID="4108"><v:paragraph v:horizAlign="1"/><v:tabList/>Vedere segnalazioni</text>		</g>
+		<g id="shape122-109" v:mID="122" v:groupContext="shape" v:layerMember="0" transform="translate(1153.64,-545.505)">
+			<title>Associazione.122</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(42000):26"/>
+			</v:userDefs>
+			<path d="M0 1154.55 L142.65 1106.07" class="st7"/>
+		</g>
+		<g id="shape123-112" v:mID="123" v:groupContext="shape" transform="translate(1053.37,-652.221)">
+			<title>Use Case.123</title>
+			<desc>Modificare avvistamenti</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(43000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="64.3261" cy="1136.14" width="128.66" height="36.8272"/>
+			<ellipse cx="64.3261" cy="1136.14" rx="64.3261" ry="18.4136" class="st5"/>
+			<text x="10.16" y="1139.44" class="st6" v:langID="4108"><v:paragraph v:horizAlign="1"/><v:tabList/>Modificare avvistamenti</text>		</g>
+		<g id="shape124-115" v:mID="124" v:groupContext="shape" v:layerMember="0" transform="translate(1157.58,-656.186)">
+			<title>Associazione.124</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(44000):26"/>
+			</v:userDefs>
+			<path d="M0 1154.55 L138.71 1204.81" class="st7"/>
+		</g>
+		<g id="shape125-118" v:mID="125" v:groupContext="shape" v:layerMember="0" transform="translate(1082.8,-547.728)">
+			<title>Includi.125</title>
+			<desc>&#60;&#60;includi&#62;&#62;</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(45000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-35.0959" cy="1135.94" width="47.25" height="17.6036"/>
+			<path d="M0 1154.55 L-70.19 1117.32" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-53.8144" y="1131.14" width="37.4373" height="9.59985" class="st10"/>
+			<text x="-53.81" y="1138.34" class="st11" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;includi&#62;&#62;</text>		</g>
+		<g id="shape126-125" v:mID="126" v:groupContext="shape" v:layerMember="0" transform="translate(1087.26,-654.414)">
+			<title>Includi.126</title>
+			<desc>&#60;&#60;includi&#62;&#62;</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(46000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-37.3753" cy="1174.47" width="47.25" height="17.6036"/>
+			<path d="M0 1154.55 L-74.75 1194.38" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-56.0939" y="1169.67" width="37.4373" height="9.59985" class="st10"/>
+			<text x="-56.09" y="1176.87" class="st11" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;includi&#62;&#62;</text>		</g>
+		<g id="shape127-132" v:mID="127" v:groupContext="shape" v:layerMember="0" transform="translate(418.931,-589.513)">
+			<title>Dipendenza</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(47000):26"/>
+			</v:userDefs>
+			<path d="M0 1154.55 L364.5 1186.92" class="st7"/>
+		</g>
+		<g id="shape128-135" v:mID="128" v:groupContext="shape" transform="translate(818.97,-298.346)">
+			<title>Use Case.128</title>
+			<desc>Modificare profilo</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(48000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="64.3261" cy="1131.17" width="128.66" height="46.7717"/>
+			<ellipse cx="64.3261" cy="1131.17" rx="64.3261" ry="23.3858" class="st13"/>
+			<text x="23.96" y="1134.47" class="st6" v:langID="4108"><v:paragraph v:horizAlign="1"/><v:tabList/>Modificare profilo</text>		</g>
+		<g id="shape129-138" v:mID="129" v:groupContext="shape" v:layerMember="0" transform="translate(899.751,-344.34)">
+			<title>Estendi.129</title>
+			<desc>&#60;&#60;estendi&#62;&#62;</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(49000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="16.2432" cy="1132.23" width="49.77" height="17.6036"/>
+			<path d="M0 1154.55 L32.49 1109.92" class="st14"/>
+			<rect v:rectContext="textBkgnd" x="-3.73118" y="1127.43" width="39.949" height="9.59985" class="st10"/>
+			<text x="-3.73" y="1134.63" class="st16" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;estendi&#62;&#62;</text>		</g>
+		<g id="shape130-145" v:mID="130" v:groupContext="shape" transform="translate(607.465,-822.047)">
+			<title>Use Case.130</title>
+			<desc>Inserire foto</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(50000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="1137.54" width="113.39" height="34.0157"/>
+			<ellipse cx="56.6929" cy="1137.54" rx="56.6929" ry="17.0079" class="st13"/>
+			<text x="29.13" y="1140.84" class="st6" v:langID="4108"><v:paragraph v:horizAlign="1"/><v:tabList/>Inserire foto</text>		</g>
+		<g id="shape131-148" v:mID="131" v:groupContext="shape" v:layerMember="0" transform="translate(717.301,-756.542)">
+			<title>Includi.131</title>
+			<desc>&#60;&#60;includi&#62;&#62;</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(51000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-21.1943" cy="1121.64" width="47.25" height="17.6036"/>
+			<path d="M0 1154.55 L-42.39 1088.74" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-39.9128" y="1116.84" width="37.4373" height="9.59985" class="st10"/>
+			<text x="-39.91" y="1124.04" class="st11" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;includi&#62;&#62;</text>		</g>
+		<g id="shape132-155" v:mID="132" v:groupContext="shape" transform="translate(735.024,-822.047)">
+			<title>Use Case.132</title>
+			<desc>Inserire descrizione</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(52000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="1137.54" width="113.39" height="34.0157"/>
+			<ellipse cx="56.6929" cy="1137.54" rx="56.6929" ry="17.0079" class="st13"/>
+			<text x="13.21" y="1140.84" class="st6" v:langID="4108"><v:paragraph v:horizAlign="1"/><v:tabList/>Inserire descrizione</text>		</g>
+		<g id="shape133-158" v:mID="133" v:groupContext="shape" transform="translate(820.063,-773.858)">
+			<title>Use Case.133</title>
+			<desc>Inserire data</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(53000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="1137.54" width="113.39" height="34.0157"/>
+			<ellipse cx="56.6929" cy="1137.54" rx="56.6929" ry="17.0079" class="st13"/>
+			<text x="28.45" y="1140.84" class="st6" v:langID="4108"><v:paragraph v:horizAlign="1"/><v:tabList/>Inserire data</text>		</g>
+		<g id="shape134-161" v:mID="134" v:groupContext="shape" v:layerMember="0" transform="translate(738.773,-756.544)">
+			<title>Includi.134</title>
+			<desc>&#60;&#60;includi&#62;&#62;</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(54000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.1136" cy="1121.65" width="47.25" height="17.6036"/>
+			<path d="M0 1154.55 L42.23 1088.74" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="2.39511" y="1116.85" width="37.4373" height="9.59985" class="st10"/>
+			<text x="2.4" y="1124.05" class="st11" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;includi&#62;&#62;</text>		</g>
+		<g id="shape135-168" v:mID="135" v:groupContext="shape" v:layerMember="0" transform="translate(765.372,-752.647)">
+			<title>Includi.135</title>
+			<desc>&#60;&#60;includi&#62;&#62;</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(55000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="37.0342" cy="1141.84" width="47.25" height="17.6036"/>
+			<path d="M0 1154.55 L74.07 1129.14" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="18.3157" y="1137.04" width="37.4373" height="9.59985" class="st10"/>
+			<text x="18.32" y="1144.24" class="st11" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;includi&#62;&#62;</text>		</g>
+		<g id="shape136-175" v:mID="136" v:groupContext="shape" transform="translate(536.598,-773.858)">
+			<title>Use Case.136</title>
+			<desc>Inserire coordinate</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(56000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="1137.54" width="113.39" height="34.0157"/>
+			<ellipse cx="56.6929" cy="1137.54" rx="56.6929" ry="17.0079" class="st13"/>
+			<text x="14.15" y="1140.84" class="st6" v:langID="4108"><v:paragraph v:horizAlign="1"/><v:tabList/>Inserire coordinate</text>		</g>
+		<g id="shape137-178" v:mID="137" v:groupContext="shape" v:layerMember="0" transform="translate(692.848,-753.173)">
+			<title>Includi.137</title>
+			<desc>&#60;&#60;includi&#62;&#62;</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(57000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-32.1739" cy="1142.37" width="47.25" height="17.6036"/>
+			<path d="M0 1154.55 L-64.35 1130.19" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-50.8924" y="1137.57" width="37.4373" height="9.59985" class="st10"/>
+			<text x="-50.89" y="1144.77" class="st11" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;includi&#62;&#62;</text>		</g>
+		<g id="shape139-185" v:mID="139" v:groupContext="shape" transform="translate(973.782,-298.346)">
+			<title>Use Case.139</title>
+			<desc>Cancellare profilo</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(59000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="64.3261" cy="1131.17" width="128.66" height="46.7717"/>
+			<ellipse cx="64.3261" cy="1131.17" rx="64.3261" ry="23.3858" class="st13"/>
+			<text x="24.94" y="1134.47" class="st6" v:langID="4108"><v:paragraph v:horizAlign="1"/><v:tabList/>Cancellare profilo</text>		</g>
+		<g id="shape140-188" v:mID="140" v:groupContext="shape" v:layerMember="0" transform="translate(1016.28,-343.73)">
+			<title>Estendi.140</title>
+			<desc>&#60;&#60;estendi&#62;&#62;</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(60000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-22.6945" cy="1131.68" width="49.77" height="17.6036"/>
+			<path d="M0 1154.55 L-45.39 1108.81" class="st14"/>
+			<rect v:rectContext="textBkgnd" x="-42.6689" y="1126.88" width="39.949" height="9.59985" class="st10"/>
+			<text x="-42.67" y="1134.08" class="st16" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;estendi&#62;&#62;</text>		</g>
+		<g id="shape141-195" v:mID="141" v:groupContext="shape" transform="translate(664.157,-298.346)">
+			<title>Use Case.141</title>
+			<desc>Eliminazione propri avvistamenti</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(61000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="64.3261" cy="1131.17" width="128.66" height="46.7717"/>
+			<ellipse cx="64.3261" cy="1131.17" rx="64.3261" ry="23.3858" class="st13"/>
+			<text x="20.95" y="1127.87" class="st6" v:langID="4108"><v:paragraph v:horizAlign="1"/><v:tabList/>Eliminazione propri <v:newlineChar/><tspan
+						x="35.71" dy="1.2em" class="st12">avvistamenti</tspan></text>		</g>
+		<g id="shape142-199" v:mID="142" v:groupContext="shape" v:layerMember="0" transform="translate(706.686,-343.735)">
+			<title>Estendi.142</title>
+			<desc>&#60;&#60;estendi&#62;&#62;</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(62000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-24.5388" cy="1129.78" width="49.77" height="17.6036"/>
+			<path d="M0 1154.55 L-49.08 1105.01" class="st14"/>
+			<rect v:rectContext="textBkgnd" x="-44.5132" y="1124.98" width="39.949" height="9.59985" class="st10"/>
+			<text x="-44.51" y="1132.18" class="st16" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;estendi&#62;&#62;</text>		</g>
+		<g id="shape147-206" v:mID="147" v:groupContext="shape" v:layerMember="0" transform="translate(418.931,-585.448)">
+			<title>Dipendenza.147</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(63000):26"/>
+			</v:userDefs>
+			<path d="M0 1154.55 L479.18 1311.65" class="st7"/>
+		</g>
+		<g id="shape148-209" v:mID="148" v:groupContext="shape" transform="translate(671.363,-644.474)">
+			<title>Foglio.148</title>
+			<desc>Consultare informazioni riguardanti fauna e flora prese da un...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(64000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="64.3261" cy="1132.88" width="128.66" height="43.3355"/>
+			<rect x="0" y="1111.22" width="128.652" height="43.3355" class="st18"/>
+			<text x="20.5" y="1124.78" class="st19" v:langID="4108"><v:paragraph v:horizAlign="1"/><v:tabList/>Consultare informazioni <tspan
+						x="8.7" dy="1.2em" class="st12">riguardanti fauna e flora prese </tspan><tspan x="32.13" dy="1.2em"
+						class="st12">da un API esterna</tspan></text>		</g>
+		<g id="shape150-214" v:mID="150" v:groupContext="shape" transform="translate(866.126,-817.795)">
+			<title>Foglio.150</title>
+			<desc>L’inserimento dei dati degli avvistamenti se possibile viene ...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(65000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="67.3228" cy="1131.87" width="134.65" height="45.3543"/>
+			<rect x="0" y="1109.2" width="134.646" height="45.3543" class="st18"/>
+			<text x="17.7" y="1123.77" class="st19" v:langID="4108"><v:paragraph v:horizAlign="1"/><v:tabList/>L’inserimento dei dati degli <tspan
+						x="10.99" dy="1.2em" class="st12">avvistamenti se possibile viene </tspan><tspan x="28.21" dy="1.2em"
+						class="st12">preso dalla fotografia</tspan></text>		</g>
+		<g id="shape153-219" v:mID="153" v:groupContext="shape" transform="translate(781.844,-481.482)">
+			<title>Foglio.153</title>
+			<desc>Segnalare all’amministratore che l’avvistamento contiene dati...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(66000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="64.3261" cy="1132.88" width="128.66" height="43.3355"/>
+			<rect x="0" y="1111.22" width="128.652" height="43.3355" class="st18"/>
+			<text x="4.05" y="1124.78" class="st19" v:langID="4108"><v:paragraph v:horizAlign="1"/><v:tabList/>Segnalare all’amministratore che <tspan
+						x="12.3" dy="1.2em" class="st12">l</tspan>’avvistamento contiene dati <tspan x="56.97" dy="1.2em"
+						class="st12">falsi</tspan></text>		</g>
+		<g id="shape154-224" v:mID="154" v:groupContext="shape" transform="translate(1108.33,-582.754)">
+			<title>Use Case.154</title>
+			<desc>Bloccare utenti</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(67000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="61.3787" cy="1136.14" width="122.76" height="36.8272"/>
+			<ellipse cx="61.3787" cy="1136.14" rx="61.3787" ry="18.4136" class="st5"/>
+			<text x="27.58" y="1139.44" class="st6" v:langID="4108"><v:paragraph v:horizAlign="1"/><v:tabList/>Bloccare utenti</text>		</g>
+		<g id="shape155-227" v:mID="155" v:groupContext="shape" v:layerMember="0" transform="translate(1231.05,-607.335)">
+			<title>Associazione.155</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(68000):26"/>
+			</v:userDefs>
+			<path d="M0 1161.32 L65.23 1161.96" class="st7"/>
+		</g>
+		<g id="shape156-230" v:mID="156" v:groupContext="shape" v:layerMember="0" transform="translate(1108.35,-607.534)">
+			<title>Includi.156</title>
+			<desc>&#60;&#60;includi&#62;&#62;</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(69000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-33.4897" cy="1161.64" width="47.25" height="17.6036"/>
+			<path d="M0 1161.38 L-66.98 1161.89" class="st14"/>
+			<rect v:rectContext="textBkgnd" x="-52.2082" y="1156.84" width="37.4373" height="9.59985" class="st10"/>
+			<text x="-52.21" y="1164.04" class="st16" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;includi&#62;&#62;</text>		</g>
+	</g>
+</svg>

@@ -1,5 +1,4 @@
-- [ ] Riguardare gantt
-- [ ] Controllare use case
+
 - [ ] Inserire gantt e use-case nella doc
 - [ ] continuare doc
 - [ ] Collegare backend al db
